@@ -7,7 +7,7 @@
 <br/>
 <br/>
 
-- 💬 Ask me about I am a blogger and while learning Programming.
+- 💬 I am a blogger and while learning Programming.
 - 📫 How to reach me: [EMAIL - AGAMX](cpryandana0@gmail.com)
 - 😄 Pronouns: Hello World
 - ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
