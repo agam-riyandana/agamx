@@ -14,7 +14,7 @@
 
 [![instagram badge](https://img.shields.io/badge/@ryanofficial2001-30302f?style=for-the-badge&logo=instagram)](https://instagram.com/ryanofficial2001)
 [![GitHub AGAMX](https://img.shields.io/github/followers/agamx?label=follow&style=social)](https://github.com/agamx)
-[![Github Pages](https://img.shields.io/badge/agamx-2648ff?style=flat-square&logo=google-chrome)](https://agamx.github.io/ryanofficial//)
+[![Github Pages](https://img.shields.io/badge/agamx-2648ff?style=flat-square&logo=github)](https://agamx.github.io/ryanofficial/)
 
 
 **Languages and Tools:**  
