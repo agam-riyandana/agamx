@@ -9,7 +9,7 @@
 
 - 💬 Ask me about I am a blogger and while learning Programming.
 - 📫 How to reach me: [EMAIL - AGAMX](cpryandana0@gmail.com)
-- 😄 Pronouns: He/His
+- 😄 Pronouns: Hello World
 - ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
 
 [![instagram badge](https://img.shields.io/badge/@ryanofficial2001-30302f?style=for-the-badge&logo=instagram)](https://instagram.com/ryanofficial2001)
