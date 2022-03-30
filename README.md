@@ -8,7 +8,7 @@
 <br/>
 
 - 💬 I am a blogger and while learning Programming.
-- 📫 How to reach me: [EMAIL - AGAMX](cpryandana0@gmail.com)
+- 📫 How to reach me:cpryandana0@gmail.com
 - 😄 Pronouns: Hello World
 - ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
 
