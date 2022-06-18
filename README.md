@@ -15,7 +15,7 @@
 - 😄 Pronouns: Hello World
 - ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
 
-[![instagram badge](https://img.shields.io/badge/@ryanofficial2001-30302f?style=for-the-badge&logo=instagram)](https://instagram.com/ryanofficial2001)
+[![instagram badge](https://img.shields.io/badge/@agamx.id-30302f?style=for-the-badge&logo=instagram)](https://instagram.com/agamx.id)
 
 [![Github Pages](https://img.shields.io/badge/agamx-2648ff?style=flat-square&logo=github)](https://agamx.github.io/ryanofficial)
 
