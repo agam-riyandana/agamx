@@ -10,10 +10,8 @@
 <br/>
 <br/>
 
-- 💬 I am a blogger and while learning Programming.
+- 💬 AGAM RIYANDANA is a Blogger, Digital creator, or commonly called AGAM RIYANDANA, he has a great interest in trying things including his Interest in Learning Programming Languages ​​Self-taught
 - 📫 How to reach me:cpryandana0@gmail.com
-- 😄 Pronouns: Hello World
-- ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
 
 [![instagram badge](https://img.shields.io/badge/@agamx.id-30302f?style=for-the-badge&logo=instagram)](https://instagram.com/agamx.id)
 
